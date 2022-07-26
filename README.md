@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 #### - :computer: I'm a 2nd year Computer Science student
 #### - :books: Interested in AI/ML
-#### - 🌱 Currently learning Python
+#### - 🌱 Currently in an internship at NLP 
 #### - :house_with_garden: Based in Białystok, Poland
 #### - 📫 How to reach me: patrycjabirylo@interia.pl
