@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### - :computer: I'm a 2nd year Computer Science student
+#### - :computer: I'm a 3rd year Computer Science student
 #### - :books: Interested in AI/ML
 #### - 🌱 Currently in an internship at NLP 
 #### - :house_with_garden: Based in Białystok, Poland
-#### - 📫 How to reach me: patrycjabirylo@interia.pl
+
