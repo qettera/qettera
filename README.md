@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **qettera/qettera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### - :computer: I'm a 3rd year Computer Science student
-#### - :books: Interested in AI/ML
-#### - :smile: Junior NLP engineer at [VoiceLab](https://voicelab.ai)
-#### - :house_with_garden: Based in Białystok, Poland
+### - :computer: I'm a 3rd year Computer Science student
+### - :books: Interested in AI/ML
+### - :smile: Junior NLP engineer at [VoiceLab](https://voicelab.ai)
+### - :house_with_garden: Based in Białystok, Poland
 
