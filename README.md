@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### - :computer: I'm a 3rd year Computer Science student
 ### - :books: Interested in AI/ML
-### - :smile: Junior NLP engineer at [VoiceLab](https://voicelab.ai)
+### - :smile: NLP engineer at [VoiceLab](https://voicelab.ai)
 ### - :house_with_garden: Based in Białystok, Poland
 
