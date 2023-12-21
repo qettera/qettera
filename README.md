@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### - :computer: I'm a 3rd year Computer Science student
 ### - :books: Interested in AI/ML
-### - :smile: learning CV and NLP
+### - :smile: learning ML and NLP
 ### - :house_with_garden: Based in Białystok, Poland
 
